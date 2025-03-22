@@ -1,0 +1,29 @@
+{
+    "subscribes":[
+        {
+            "url": "https://us.freecat.cloud/api/v1/client/subscribe?token=1afccd4c36a9cbad1263eed78d9bf3a4",
+            "tag": "freecat",
+            "enabled": true,
+            "emoji": 1,
+            "prefix": "",
+            "User-Agent":"sing-box"
+        },
+        {
+            "url": "https://efshop.cc/api/v1/client/subscribe?token=114f968d03c530c7d08a44cca287b935",
+            "tag": "efcloud",
+            "enabled": false,
+            "emoji": 0,
+            "prefix": "❤️",
+            "User-Agent":"sing-box"
+        }
+    ],
+    "auto_set_outbounds_dns":{
+        "proxy": "",
+        "direct": ""
+    },
+    "save_config_path": "C:/sing-box/config.json",D:/config.json
+    "auto_backup": true,
+    "exclude_protocol":"ssr",
+    "config_template": "",
+    "Only-nodes": false
+}

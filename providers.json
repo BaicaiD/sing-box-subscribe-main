@@ -1,0 +1,32 @@
+{
+    "subscribes":[
+        {
+            "url": "http://106.75.141.168:3389/api/v1/client/subscribe?token=5d238193b8cedd59dac9addf15d9410a",
+            "tag": "tag_1",
+            "enabled": true,
+            "emoji": 1,
+            "subgroup": "",
+            "prefix": "",
+            "ex-node-name": "",
+            "User-Agent":"v2rayng"
+        },
+        {
+            "url": "https://api.kkhhyytt.cn/api/v1/client/subscribe?token=8b36dc76302c5f7fafff11b3d84706af",
+            "tag": "tag_2",
+            "enabled": true,
+            "emoji": 0,
+            "subgroup": "",
+            "prefix": "❤️",
+            "User-Agent":"clashmeta"
+        }
+    ],
+    "auto_set_outbounds_dns":{
+        "proxy": "",
+        "direct": ""
+    },
+    "save_config_path": "C:/Tool/sing-box/config.json",
+    "auto_backup": false,
+    "exclude_protocol":"ssr",
+    "config_template": "",
+    "Only-nodes": false
+}

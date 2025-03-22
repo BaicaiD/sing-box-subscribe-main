@@ -1,0 +1,19 @@
+{
+  "log": {
+    "disabled": false,
+    "level": "panic",
+    "output": "/data/adb/box/run/sing-box.log",
+    "timestamp": true
+  },
+  "experimental": {
+    "clash_api": {
+      "external_controller": "127.0.0.1:9090",
+      "external_ui": "/data/adb/box/sing-box/dashboard",
+      "secret": "",
+      "default_mode": "rule"
+    },
+  "cache_file": {
+    "enabled": true,
+    "store_fakeip": false
+    }
+  },

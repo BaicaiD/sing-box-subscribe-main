@@ -1,0 +1,17 @@
+https://riceofwine-forgithub.20030124hui.workers.dev
+
+
+
+https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
+
+https://cdn.jsdelivr.net/gh/BaicaiD/sing-box-geosite@1.0/rule/Advertising.srs
+https://cdn.jsdelivr.net/gh/BaicaiD/sing-box-geosite@1.0/rule/OpenAI.srs
+https://cdn.jsdelivr.net/gh/BaicaiD/sing-box-geosite@1.0/rule/YouTube.srs
+https://cdn.jsdelivr.net/gh/BaicaiD/sing-box-geosite@1.0/rule/GoogleFCM.srs
+
+https://cdn.jsdelivr.net/gh/BaicaiD/sing-box-geosite@1.0/rule/BiliBili.srs
+https://cdn.jsdelivr.net/gh/BaicaiD/sing-box-geosite@1.0/rule/Spotify.srs
+https://cdn.jsdelivr.net/gh/BaicaiD/sing-box-geosite@1.0/rule/
+https://cdn.jsdelivr.net/gh/BaicaiD/sing-box-geosite@1.0/rule/
+https://cdn.jsdelivr.net/gh/BaicaiD/sing-box-geosite@1.0/rule/
+https://cdn.jsdelivr.net/gh/BaicaiD/sing-box-geosite@1.0/rule/

@@ -1,0 +1,5 @@
+www.xiaoxiaodediyi.xyz:443	
+www.xiaoxiaodediyi.xyz:80	
+xiaoxiaodediyi.xyz:443	
+xiaoxiaodediyi.xyz:80	
+106.2.68.210
